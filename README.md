@@ -1,5 +1,5 @@
 # Vet-Clinic-System
 Veterinary Clinic Management System
 
-![image]
-(https://user-images.githubusercontent.com/51289343/181027368-06e83fec-21f2-4365-9a6f-1095247269e1.png)
+![main-page](https://user-images.githubusercontent.com/51289343/181044437-5650e35c-0e52-432f-80aa-ba95f304644b.png)
+
